@@ -1,0 +1,6 @@
+{
+  "name": "Skeuomorphic & Neumorphic Design System",
+  "description": "Comprehensive design system reference and interactive dashboard specification capturing Industrial Dark Skeuomorphism and Light Neumorphic Soft UI aesthetics, with component behaviors, animation timings, accessibility standards, and responsive breakpoints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
